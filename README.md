@@ -28,8 +28,8 @@ for this purpose.
 
 ### Output:
 ```
-Name:LUTHEESH GOPARAPU
-Reg no:212221230029
+Name:V.A.JITHENDRA
+Reg no:212221230043
 ```
 ![image](https://github.com/Rakshithadevi/WDM_EXP9/assets/94165326/de715144-84c6-4f91-9ba5-026eb4c3d5db)
 
